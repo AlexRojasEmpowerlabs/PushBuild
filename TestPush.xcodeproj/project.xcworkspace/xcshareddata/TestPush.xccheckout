@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D965C822-7DD8-415F-B53B-3DCA282C0BA0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3DFF8253104D6218D09D8F325B2B8861713EB06A</key>
+		<string>https://github.com/AlexRojasEmpowerlabs/TestApp.git</string>
+		<key>6CAF1FC81082BCA8E0F8456E683B74D925368105</key>
+		<string>https://github.com/AlexRojasEmpowerlabs/TestPush.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/TestPush.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3DFF8253104D6218D09D8F325B2B8861713EB06A</key>
+		<string>../../../../..</string>
+		<key>6CAF1FC81082BCA8E0F8456E683B74D925368105</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AlexRojasEmpowerlabs/TestPush.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6CAF1FC81082BCA8E0F8456E683B74D925368105</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3DFF8253104D6218D09D8F325B2B8861713EB06A</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6CAF1FC81082BCA8E0F8456E683B74D925368105</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestPush</string>
+		</dict>
+	</array>
+</dict>
+</plist>
